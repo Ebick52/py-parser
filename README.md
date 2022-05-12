@@ -6,4 +6,4 @@ Notes:
 - insert every transition of grammar as left_side:right_side1|rightside2|...
 - first transition always starts with S
 - target sentence has to be an empty string or contain only lowercase alphabet
-- for an empty production use "lambda" as a right_side of grammar
+- for an empty production you can use "lambda" as a right_side of grammar or just leave it empty
